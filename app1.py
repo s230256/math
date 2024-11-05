@@ -19,7 +19,7 @@ st.write('음수?? 어렵지 않아!')
 #      st.write('- 부호: (+)는 생략 가능 /(-)는 생략 불가')
 # 오른쪽 문단
 #with col2:
-#      st.image('수학이미지.PNG')  # 이미지 파일 불러오기
+#      st.image('https://github.com/s230256/math/blob/7503542642cd57a856ca2cc4d5a6983e45eb706f/%EC%88%98%ED%95%99%EC%9D%B4%EB%AF%B8%EC%A7%80.PNG')  # 이미지 파일 불러오기
 
 # 사용자의 입력을 받아서 a에 저장하기(초기값은 0)
 #a = st.number_input('____________', value= ____)  
